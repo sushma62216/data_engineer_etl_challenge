@@ -4,7 +4,7 @@ This project implements an end-to-end ETL (Extract, Transform, Load) data pipeli
 
 ---
 
-## 🛠️ Setup Instructions
+#  Setup Instructions
 
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed and running.
